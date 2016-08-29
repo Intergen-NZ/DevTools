@@ -23,57 +23,58 @@
    Fast test runner
 
 ### [VS Code](https://code.visualstudio.com)
-   Code editor
+   Lightweight Code editor
    Packages: [Emmet](http://docs.emmet.io/), [git merge](https://code.visualstudio.com/docs/editor/versioncontrol)
 
-### Browser stack
+### [Sublime text 3](https://www.sublimetext.com/3)
+ Plugings: [Pretty JSON](https://blog.adriaan.io/sublime-pretty-json.html)
+
+### [Browser stack](https://www.browserstack.com/)
    Cross browser testing
 
-### Exploratory testing
+### [Exploratory testing](https://chrome.google.com/webstore/detail/exploratory-testing-previ/gnldpbnocfnlkkicnaplmkaphfdnlplb)
    Chrome extension that integrates with VSO directly for bug creation (has recording + screen capture etc)
 
-### Dirty markup
+### [Dirty markup](http://www.dirtymarkup.com/)
    Online JSON/HTML formatter
 
-### Code snippets for VS and Code (edited)
+### [Code snippets](https://msdn.microsoft.com/en-us/library/ms165392.aspx) for VS and Code
 
-### NCrunch 
+### [NCrunch](http://www.ncrunch.net/)
    Automatic concurrent testing + intelligent test execution
 
-###Wallabyjs
-   Same as NCrunch but for js/ts (edited)
+### [Wallabyjs](https://wallabyjs.com/)
+   Same as NCrunch but for js/ts
 
-### C# outline
+### [C# outline](https://visualstudiogallery.msdn.microsoft.com/9390e08c-d0aa-42f1-b3d2-5134aabf3b9a)
    Add code collapsibility to every block of code (loops, ifs, etc.), not just methods and regions
 
-### ILSpy (yes there’s a plugin as well as the standalone app)
+### ILSpy [plugin](https://visualstudiogallery.msdn.microsoft.com/8ef1d688-f80c-4380-8004-2ec7f814e7de) | [app](http://ilspy.net/)
    Integrated decompiler
 
-### Productivity Power Tools
+### [Productivity Power Tools](https://visualstudiogallery.msdn.microsoft.com/34ebc6a2-2777-421d-8914-e29c1dfa7f5d)
    Adds some nice conveniences
 
-### VSColorOutput
-   Colorizes the output window based on RegEx’s (edited)
+### [VSColorOutput](https://visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496)
+   Colorizes the output window based on RegEx’s
 
-### Sublime text + Pretty JSON
-
-### Wireshark
+### [Wireshark](https://www.wireshark.org/)
    Open source network package analyser. 
 
-### Fusion Log Viewer
+### [Fusion Log Viewer](https://msdn.microsoft.com/en-us/library/e74a18c4.aspx)
    Bind failure logging.
 
-### ProcDump and Windebug
+### [ProcDump](https://technet.microsoft.com/en-us/sysinternals/dd996900.aspx) and [Windebug](https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit)
    Dump memory crash and analyse. 
 
-### Process Explorer
-   Good to view dll injection and terminal session debugging. (edited)
+### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
+   Good to view dll injection and terminal session debugging.
 
-### Vectr
+### [Vectr](https://vectr.com/)
    Web graphics editor for designing hi-fidelity mockups (Like Sketch on mac)
 
-### Remote desktop connection manager
-   Nice interface for remoting into several environments at once. (edited)
+### [Remote desktop connection manager](https://www.microsoft.com/en-us/download/details.aspx?id=44989)
+   Nice interface for remoting into several environments at once.
    
 ### [Hack](http://sourcefoundry.org/hack/)
    A typeface for code.
