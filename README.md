@@ -7,21 +7,21 @@
 ### [Cmder](http://cmder.net/)
    Console emulator with a bunch of added features
 
-### (Slack)[https://team-intergen.slack.com/]
+### [Slack](https://team-intergen.slack.com/)
    Communication with teams
 
-### (Postman)[https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en]
+### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
    API testing
 
-### (Fiddler)[https://www.telerik.com/download/fiddler]
+### [Fiddler](https://www.telerik.com/download/fiddler)
    Network traffic analyser
 
-### (Testdriven.net)[http://www.testdriven.net/]
+### [Testdriven.net](http://www.testdriven.net/)
    Fast test runner
 
-### (VS Code)[https://code.visualstudio.com]
+### [VS Code](https://code.visualstudio.com)
    Code editor
-   Packages: (Emmet)[http://docs.emmet.io/], git merge
+   Packages: [Emmet](http://docs.emmet.io/), [git merge](https://code.visualstudio.com/docs/editor/versioncontrol)
 
 ### Browser stack
    Cross browser testing
