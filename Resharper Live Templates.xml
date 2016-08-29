@@ -1,0 +1,206 @@
+<TemplatesExport>
+  <Template uid="6aca20f9-49d2-4be6-b647-b488ac5fcb53" shortcut="checkn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="parameterOfType(&quot;object&quot;)" initialRange="0" />
+      <Variable name="stringArgument" expression="decapitalize(argument)" initialRange="-1" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="abbb99d4-b798-4ee8-895a-b80f65f0a6fe" shortcut="checke" description="Uses the Argument class to check if an argument is null or empty" text="Argument.CheckIfNullOrEmpty($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="parameterOfType(&quot;string&quot;)" initialRange="0" />
+      <Variable name="stringArgument" expression="decapitalize(argument)" initialRange="-1" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="0d536fb4-a0d1-499b-8769-e2031f6ce472" shortcut="setup" description="Creates a SetUp method for use in a test fixture" text="[SetUp]&#xD;&#xA;public void SetUp()&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="0de047aa-5784-4b71-94bd-6246645aec12" shortcut="at" description="Creates a template for the Assert.That method" text="Assert.That($actual$, $constraint$);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="actual" expression="" initialRange="0" />
+      <Variable name="constraint" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="c424401a-4026-43f2-930a-4b97c7ed0ada" shortcut="teardown" description="Creates a TearDown method for use in a test fixture" text="[TearDown]&#xD;&#xA;public void TearDown()&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="f901c451-7452-4c15-8d8f-073ae6baa706" shortcut="ee" description="Creates an expected exception test attribute with a placeholder for the exception" text="[ExpectedException(typeof ($ArgumentNullException$))]" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="ArgumentNullException" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="a1268e6c-aa4e-466a-846a-27f2f9bdf586" shortcut="test" description="Create a unit test fixture method with a placeholder for the test name" text="[Test]&#xD;&#xA;public void $testName$()&#xD;&#xA;{&#xD;&#xA;&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="testName" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="39f246d9-bdc5-423a-9ca6-93c67be4cd38" shortcut="testex" description="Create a unit test fixture method that expects an exception with a placeholder for the test name and the expected exception" text="[Test]&#xD;&#xA;[ExpectedException(typeof ($ArgumentNullException$))]&#xD;&#xA;public void $testName$ThrowsException()&#xD;&#xA;{&#xD;&#xA;    $END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="ArgumentNullException" expression="" initialRange="0" />
+      <Variable name="testName" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="328756f8-077a-4e25-b114-78bb7a27eca0" shortcut="checkl" description="Check if a string length is less than or equal to the specified number of characters and its not null" text="Argument.CheckStringNullOrLength($argument$, &quot;$stringArgument$&quot;, $END$);" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="" initialRange="0" />
+      <Variable name="stringArgument" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="0de047aa-5784-4b71-94bd-6246645aec12" shortcut="at" description="Creates a template for the Assert.That method" text="Assert.That($actual$, $constraint$);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="actual" expression="" initialRange="0" />
+      <Variable name="constraint" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="abbb99d4-b798-4ee8-895a-b80f65f0a6fe" shortcut="checke" description="Uses the Argument class to check if an argument is null or empty" text="Argument.CheckIfNullOrEmpty($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="parameterOfType(&quot;string&quot;)" initialRange="0" />
+      <Variable name="stringArgument" expression="decapitalize(argument)" initialRange="-1" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="328756f8-077a-4e25-b114-78bb7a27eca0" shortcut="checkl" description="Check if a string length is less than or equal to the specified number of characters and its not null" text="Argument.CheckStringNullOrLength($argument$, &quot;$stringArgument$&quot;, $END$);" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="" initialRange="0" />
+      <Variable name="stringArgument" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="6aca20f9-49d2-4be6-b647-b488ac5fcb53" shortcut="checkn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="parameterOfType(&quot;object&quot;)" initialRange="0" />
+      <Variable name="stringArgument" expression="decapitalize(argument)" initialRange="-1" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="bbdc94b3-ab6f-4947-969a-17e047599ef4" shortcut="checknel" description="Uses the Argument class to check if an argument is null, empty or greater than specified length" text="Argument.CheckIfNullEmptyOrLength($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="" initialRange="0" />
+      <Variable name="stringArgument" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="f901c451-7452-4c15-8d8f-073ae6baa706" shortcut="ee" description="Creates an expected exception test attribute with a placeholder for the exception" text="[ExpectedException(typeof ($ArgumentNullException$))]" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="ArgumentNullException" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="0d536fb4-a0d1-499b-8769-e2031f6ce472" shortcut="setup" description="Creates a SetUp method for use in a test fixture" text="[SetUp]&#xD;&#xA;public void SetUp()&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="c424401a-4026-43f2-930a-4b97c7ed0ada" shortcut="teardown" description="Creates a TearDown method for use in a test fixture" text="[TearDown]&#xD;&#xA;public void TearDown()&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables />
+    <CustomProperties />
+  </Template>
+  <Template uid="a1268e6c-aa4e-466a-846a-27f2f9bdf586" shortcut="test" description="Create a unit test fixture method with a placeholder for the test name" text="[Test]&#xD;&#xA;public void $testName$()&#xD;&#xA;{&#xD;&#xA;&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="testName" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="39f246d9-bdc5-423a-9ca6-93c67be4cd38" shortcut="testex" description="Create a unit test fixture method that expects an exception with a placeholder for the test name and the expected exception" text="[Test]&#xD;&#xA;[ExpectedException(typeof ($ArgumentNullException$))]&#xD;&#xA;public void $testName$ThrowsException()&#xD;&#xA;{&#xD;&#xA;    $END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="ArgumentNullException" expression="" initialRange="0" />
+      <Variable name="testName" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+  <Template uid="c86bfcd9-1ea7-4aa5-944f-33478f7d997f" shortcut="testf" description="Creates the TestFixture tag" text="[TestFixture]&#xD;&#xA;public class $testClassName$Test&#xD;&#xA;{&#xD;&#xA;    [Test]&#xD;&#xA;    public void $testName$()&#xD;&#xA;    {&#xD;&#xA;        $END$&#xD;&#xA;    }&#xD;&#xA;}" reformat="False" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Everywhere" minimumLanguageVersion="2.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="testClassName" expression="" initialRange="0" />
+      <Variable name="testName" expression="" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
+</TemplatesExport>
