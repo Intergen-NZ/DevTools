@@ -1,6 +1,3 @@
-# Cmder Aliases
-Copy the aliases file to %CMDER_ROOT%\config\aliases and edit the file for file paths specific to your environment, then restart Cmder.
-
 # DevTools
 
 ## Must have
@@ -8,7 +5,8 @@ Copy the aliases file to %CMDER_ROOT%\config\aliases and edit the file for file 
    Communication with Intergen teams
    
 ### [Cmder](http://cmder.net/)
-   Console emulator with a bunch of added features
+   + Console emulator with a bunch of added features
+   + Copy the aliases file to %CMDER_ROOT%\config\aliases and edit the file for file paths specific to your environment, then restart Cmder. 
 
 ### [Resharper](https://www.jetbrains.com/resharper/)
    Code analysis / refactor assistance / navigation / everything
