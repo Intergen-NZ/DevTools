@@ -4,6 +4,9 @@
 ### [Resharper](https://www.jetbrains.com/resharper/)
    Code analysis / refactor assistance / navigation / everything
 
+### [dotTrace](https://www.jetbrains.com/profiler/)
+   .NET code profiler, performance tool
+
 ### [Cmder](http://cmder.net/)
    Console emulator with a bunch of added features
 
