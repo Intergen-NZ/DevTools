@@ -79,7 +79,7 @@
 ### [Wallabyjs](https://wallabyjs.com/)
    + Same as NCrunch but for js/ts
 
-## Tools
+## Other Tools
 ### [Vectr](https://vectr.com/)
    + Web graphics editor for designing hi-fidelity mockups (Like Sketch on mac)
 
