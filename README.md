@@ -41,7 +41,7 @@
    + Online JSON/HTML formatter
 
 ### [Online Json Viewer](http://jsonviewer.stack.hu/)
-   + Online Expandable / Collapsible Online JSON formatter
+   + Online Expandable / Collapsible JSON formatter
 
 ## Debugging
 ### [dotTrace](https://www.jetbrains.com/profiler/)
