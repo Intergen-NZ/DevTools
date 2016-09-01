@@ -84,6 +84,13 @@
 ### [Wallabyjs](https://wallabyjs.com/)
    + Same as NCrunch but for js/ts
 
+## Azure tools
+### [Storage Explorer](http://storageexplorer.com/)
+   + Tool to browse/modify Azure Storage resources and data
+   
+### [Service Bus Explorer](https://code.msdn.microsoft.com/windowsapps/Service-Bus-Explorer-f2abca5a)
+   + Manage and test the entities contained in an Azure Service Bus namespace
+
 ## Other Tools
 ### [Vectr](https://vectr.com/)
    + Web graphics editor for designing hi-fidelity mockups (Like Sketch on mac)
