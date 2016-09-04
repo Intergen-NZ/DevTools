@@ -6,7 +6,7 @@
    
 ### [Cmder](http://cmder.net/)
    + Console emulator with a bunch of added features
-   + Copy the aliases file to %CMDER_ROOT%\config\aliases and edit the file for file paths specific to your environment, then restart Cmder. 
+   + Add aliases from the file in this repository to %CMDER_ROOT%\config\user-aliases.cmd and edit the file for file paths specific to your environment, then restart Cmder. 
 
 ### [Resharper](https://www.jetbrains.com/resharper/)
    + Code analysis / refactor assistance / navigation / everything
