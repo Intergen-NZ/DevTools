@@ -43,6 +43,9 @@
 ### [Online Json Viewer](http://jsonviewer.stack.hu/)
    + Online Expandable / Collapsible JSON formatter
 
+### [Wappalyzer](https://wappalyzer.com/)
+   + Identify software on the websites you visit
+
 ## Debugging
 ### [dotTrace](https://www.jetbrains.com/profiler/)
    + .NET code profiler, performance tool
