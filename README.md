@@ -95,6 +95,9 @@
 ### [Vectr](https://vectr.com/)
    + Web graphics editor for designing hi-fidelity mockups (Like Sketch on mac)
 
+### [KeePass](http://keepass.info/)
+   + Password manager useful for storing passwords within a repository and locked with a master password.
+
 ### [Remote desktop connection manager](https://www.microsoft.com/en-us/download/details.aspx?id=44989)
    + Nice interface for remoting into several environments at once.
    
