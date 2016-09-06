@@ -50,8 +50,8 @@
 ### [dotTrace](https://www.jetbrains.com/profiler/)
    + .NET code profiler, performance tool
    
-### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-   + API testing
+### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) or [Insomnia](https://insomnia.rest/download/#)
+   + REST API testing
 
 ### [Fiddler](https://www.telerik.com/download/fiddler)
    + Network traffic analyser
