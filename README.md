@@ -43,6 +43,9 @@
 ### [Online Json Viewer](http://jsonviewer.stack.hu/)
    + Online Expandable / Collapsible JSON formatter
 
+### [Wappalyzer](https://wappalyzer.com/)
+   + Identify software on the websites you visit
+
 ## Debugging
 ### [dotTrace](https://www.jetbrains.com/profiler/)
    + .NET code profiler, performance tool
@@ -94,6 +97,9 @@
 ## Other Tools
 ### [Vectr](https://vectr.com/)
    + Web graphics editor for designing hi-fidelity mockups (Like Sketch on mac)
+
+### [KeePass](http://keepass.info/)
+   + Password manager useful for storing passwords within a repository and locked with a master password.
 
 ### [Remote desktop connection manager](https://www.microsoft.com/en-us/download/details.aspx?id=44989)
    + Nice interface for remoting into several environments at once.
