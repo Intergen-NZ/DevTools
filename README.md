@@ -35,7 +35,7 @@
    + Packages: [Emmet](http://docs.emmet.io/), [git merge](https://code.visualstudio.com/docs/editor/versioncontrol)
 
 ### [Sublime text 3](https://www.sublimetext.com/3)
-   + Plugings: [Pretty JSON](https://blog.adriaan.io/sublime-pretty-json.html)
+   + Plugings: [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
 
 ### [Dirty markup](http://www.dirtymarkup.com/)
    + Online JSON/HTML formatter
