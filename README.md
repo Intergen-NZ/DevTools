@@ -7,6 +7,7 @@
 ### [Cmder](http://cmder.net/)
    + Console emulator with a bunch of added features
    + Add aliases from the file in this repository to %CMDER_ROOT%\config\user-aliases.cmd and edit the file for file paths specific to your environment, then restart Cmder. 
+   + Couple this with [Git Credential Manager](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/)
 
 ### [Resharper](https://www.jetbrains.com/resharper/)
    + Code analysis / refactor assistance / navigation / everything
@@ -35,7 +36,7 @@
    + Packages: [Emmet](http://docs.emmet.io/), [git merge](https://code.visualstudio.com/docs/editor/versioncontrol)
 
 ### [Sublime text 3](https://www.sublimetext.com/3)
-   + Plugings: [Pretty JSON](https://blog.adriaan.io/sublime-pretty-json.html)
+   + Plugings: [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
 
 ### [Dirty markup](http://www.dirtymarkup.com/)
    + Online JSON/HTML formatter
@@ -50,8 +51,8 @@
 ### [dotTrace](https://www.jetbrains.com/profiler/)
    + .NET code profiler, performance tool
    
-### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-   + API testing
+### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) or [Insomnia](https://insomnia.rest/download/#)
+   + REST API testing
 
 ### [Fiddler](https://www.telerik.com/download/fiddler)
    + Network traffic analyser
