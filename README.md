@@ -6,7 +6,7 @@
    
 ### [Cmder](http://cmder.net/)
    + Console emulator with a bunch of added features
-   + Add aliases from the file in this repository to %CMDER_ROOT%\config\user-aliases.cmd and edit the file for file paths specific to your environment, then restart Cmder. 
+   + Add aliases from the CmderAliases file in this repository to %CMDER_ROOT%\config\user-aliases.cmd and edit the file for file paths specific to your environment, then restart Cmder. 
    + Couple this with [Git Credential Manager](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/)
 
 ### [Resharper](https://www.jetbrains.com/resharper/)
