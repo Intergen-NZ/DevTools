@@ -2,7 +2,8 @@
 
 ## Must have
 ### [Intergen Slack](https://team-intergen.slack.com/)
-   Communication with Intergen teams
+   + Communication with Intergen teams
+   + [Themes!](http://slackthemes.net/)
    
 ### [Cmder](http://cmder.net/)
    + Console emulator with a bunch of added features
