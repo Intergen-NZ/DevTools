@@ -12,7 +12,8 @@
 
 ### [Resharper](https://www.jetbrains.com/resharper/)
    + Code analysis / refactor assistance / navigation / everything
-   + Import the Resharper Live Templates.xml file into Resharper once instaled in VS for additional code-snippets
+   + Import the Resharper Live Templates.xml file into Resharper once instaled in VS for additional code-snippets (**ReSharper** > **Tools** > **Template Explorer** > **Import**)
+   + Use the "Resharper 2.x or IntelliJ IDEA" keyboard shortcut scheme 
 
 ## Cutting code
 ### Visual Studio Extensions
