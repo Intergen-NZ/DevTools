@@ -14,6 +14,7 @@
    + Code analysis / refactor assistance / navigation / everything
    + Import the Resharper Live Templates.xml file into Resharper once instaled in VS for additional code-snippets (**ReSharper** > **Tools** > **Template Explorer** > **Import**)
    + Use the "Resharper 2.x or IntelliJ IDEA" keyboard shortcut scheme 
+   + [Null check generator](https://github.com/develohpanda/NullCheckGenerator)
 
 ## Cutting code
 ### Visual Studio Extensions
