@@ -123,6 +123,16 @@
     </Variables>
     <CustomProperties />
   </Template>
+  <Template uid="6aca20f9-49d2-4be6-b647-b488ac5fcb53" shortcut="cn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, nameof($argument$));$END$" reformat="True" shortenQualifiedReferences="True">
+    <Context>
+      <CSharpContext context="Statement" minimumLanguageVersion="6.0" />
+    </Context>
+    <Categories />
+    <Variables>
+      <Variable name="argument" expression="parameterOfType(&quot;object&quot;)" initialRange="0" />
+    </Variables>
+    <CustomProperties />
+  </Template>
   <Template uid="6aca20f9-49d2-4be6-b647-b488ac5fcb53" shortcut="checkn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, &quot;$stringArgument$&quot;);$END$" reformat="True" shortenQualifiedReferences="True">
     <Context>
       <CSharpContext context="Statement" minimumLanguageVersion="2.0" />
