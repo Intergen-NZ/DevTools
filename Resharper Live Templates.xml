@@ -123,7 +123,7 @@
     </Variables>
     <CustomProperties />
   </Template>
-  <Template uid="6aca20f9-49d2-4be6-b647-b488ac5fcb53" shortcut="cn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, nameof($argument$));$END$" reformat="True" shortenQualifiedReferences="True">
+  <Template uid="9f0c96fe-585b-4e55-9811-f076eeb78539" shortcut="cn" description="Uses the Argument class to check if an argument is null" text="Argument.CheckIfNull($argument$, nameof($argument$));$END$" reformat="True" shortenQualifiedReferences="True">
     <Context>
       <CSharpContext context="Statement" minimumLanguageVersion="6.0" />
     </Context>
