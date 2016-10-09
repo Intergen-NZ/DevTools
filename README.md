@@ -113,3 +113,6 @@
    
 ### [Learn Git Branching](http://learngitbranching.js.org/?NODEMO)
    + Online branch visualizer to test git branching changes
+
+### [Enki](https://www.enki.com/)
+   + The 5-minute daily workout for your dev skills.
