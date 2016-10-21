@@ -40,7 +40,16 @@
 
 
 ### [Sublime text 3](https://www.sublimetext.com/3)
-   + Plugings: [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
+   + Sublime Text is a sophisticated text editor for code, markup and prose.
+   + [Install the package manager here](https://packagecontrol.io/installation)
+   + Packages:  [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile),
+                [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON),
+                [Babel](https://packagecontrol.io/packages/Babel),
+                [Colorsublime](https://packagecontrol.io/packages/Colorsublime),
+                [Emmet](https://packagecontrol.io/packages/Emmet),
+                [ExpandRegion](https://packagecontrol.io/packages/ExpandRegion),
+                [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify),
+                [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
 ### [Dirty markup](http://www.dirtymarkup.com/)
    + Online JSON/HTML formatter
