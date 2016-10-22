@@ -36,7 +36,16 @@
 
 ### [VS Code](https://code.visualstudio.com)
    + Lightweight Code editor
-   + Packages: [Emmet](http://docs.emmet.io/), [git merge](https://code.visualstudio.com/docs/editor/versioncontrol), [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets), [Angular2 Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2), [Angular1 Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2), [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense), [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense), [Nono Dank Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark), [Eclipse Theme](https://marketplace.visualstudio.com/items?itemName=tdtp23.eclipse-theme), [Typings Autoinstaller](https://marketplace.visualstudio.com/items?itemName=jvitor83.typings-autoinstaller)
+   + Packages:  [Emmet](http://docs.emmet.io/),
+                [git merge](https://code.visualstudio.com/docs/editor/versioncontrol),
+                [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets),
+                [Angular2 Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2),
+                [Angular1 Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2),
+                [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense),
+                [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense),
+                [Nono Dank Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark),
+                [Eclipse Theme](https://marketplace.visualstudio.com/items?itemName=tdtp23.eclipse-theme),
+                [Typings Autoinstaller](https://marketplace.visualstudio.com/items?itemName=jvitor83.typings-autoinstaller)
 
 
 ### [Sublime text 3](https://www.sublimetext.com/3)
@@ -50,6 +59,17 @@
                 [ExpandRegion](https://packagecontrol.io/packages/ExpandRegion),
                 [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify),
                 [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
+
+### [Atom](https://atom.io/)
+   + A hackable text editor for the 21st Century.
+   + Packages:  [Atom Typescript](https://atom.io/packages/atom-typescript),
+                [Emmet](https://atom.io/packages/emmet),
+                [Expand Region](https://atom.io/packages/expand-region),
+                [Git time machine](https://atom.io/packages/git-time-machine),
+                [I'm done atom](https://atom.io/packages/imdone-atom),
+                [Merge Conflicts](https://atom.io/packages/merge-conflicts),
+                [Minimap](https://atom.io/packages/minimap),
+                [Pigments](https://atom.io/packages/pigments)
 
 ### [Dirty markup](http://www.dirtymarkup.com/)
    + Online JSON/HTML formatter
