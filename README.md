@@ -51,6 +51,17 @@
                 [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify),
                 [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
+### [Atom](https://atom.io/)
+   + A hackable text editor for the 21st Century.
+   + Packages:  [Atom Typescript](https://atom.io/packages/atom-typescript),
+                [Emmet](https://atom.io/packages/emmet),
+                [Expand Region](https://atom.io/packages/expand-region),
+                [Git time machine](https://atom.io/packages/git-time-machine),
+                [I'm done atom](https://atom.io/packages/imdone-atom),
+                [Merge Conflicts](https://atom.io/packages/merge-conflicts),
+                [Minimap](https://atom.io/packages/minimap),
+                [Pigments](https://atom.io/packages/pigments)
+
 ### [Dirty markup](http://www.dirtymarkup.com/)
    + Online JSON/HTML formatter
 
