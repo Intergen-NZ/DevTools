@@ -16,6 +16,9 @@
    + Use the "Resharper 2.x or IntelliJ IDEA" keyboard shortcut scheme 
    + [Null check generator](https://github.com/develohpanda/NullCheckGenerator)
 
+### [Node Version Manager For Windows](https://github.com/coreybutler/nvm-windows)
+  + Allows you to easily upgrade and switch NodeJS versions on a Windoes machine. Based on NVM for *nix.
+
 ## Cutting code
 ### Visual Studio Extensions
    
