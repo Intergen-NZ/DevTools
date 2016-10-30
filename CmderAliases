@@ -6,3 +6,4 @@ git-feature=git checkout develop $t git pull $t git checkout -b feature/$1
 git-bug=git checkout develop $t git pull $t git checkout -b bug/$1
 git-hotfix=git checkout master $t git pull $t git checkout -b hotfix/$1
 park=git add -A $t git stash save $*
+getdev=git checkout develop $t git pull $t git checkout -
