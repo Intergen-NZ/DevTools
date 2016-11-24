@@ -8,3 +8,4 @@ git-hotfix=git checkout master $t git pull $t git checkout -b hotfix/$1
 park=git add -A $t git stash save $*
 getdev=git checkout develop $t git pull $t git checkout -
 git-update=git checkout $1 $t git pull $t git checkout - $t git merge $1
+
