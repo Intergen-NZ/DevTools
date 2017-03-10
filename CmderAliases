@@ -9,4 +9,4 @@ park=git add -A $t git stash save $*
 getdev=git checkout develop $t git pull $t git checkout -
 git-update=git checkout $1 $t git pull $t git checkout - $t git merge $1
 git-push=git rev-parse --abbrev-ref HEAD $b xargs git push --set-upstream origin
-
+git-clean=git branch -vv $b grep ': gone]' $b awk '{print $1}' $b xargs git branch -d
